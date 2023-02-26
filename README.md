@@ -7,7 +7,7 @@ Dependencies:
 Before runnig the main.py you have to open 'TeleKey.py' and put there a bot API key (you can get one by messaging @botfather on telegram). This is because the scrypt needs an API key to request the images from Telegram.
 
 Run:
-python main.py [-h] [-png] Packname
+python3 main.py [-h] [-png] Packname
 
 Download all the images from a Telegram sticker pack
 
